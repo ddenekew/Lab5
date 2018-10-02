@@ -12,14 +12,14 @@ table{
   background-repeat: repeat;
 }
 body{
-  background-color: gray;
+  background-color: darksalmon;
   padding-top: 5%;
   padding-right: 5%;
   padding-bottom: 5%;
   padding-left: 5%;
 }
 h1{
-  color: #ffd700;
+  color: #7b68ee;
   font-weight: bold;
   font-family: fantasy;
   text-align: center;

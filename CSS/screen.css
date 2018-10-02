@@ -1,0 +1,30 @@
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+tr,th{
+  padding: 8px;
+  color: white;
+}
+table{
+  background-image: url("http://www.astronomy.com/-/media/Images/News%20and%20Observing/News/2018/05/shutterstock_335361614.jpg?mw=600");
+  background-position: bottom;
+  background-repeat: repeat;
+}
+body{
+  background-color: gray;
+  padding-top: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+}
+h1{
+  color: #ffd700;
+  font-weight: bold;
+  font-family: fantasy;
+  text-align: center;
+}
+footer{
+  text-align: center;
+  padding-top: 3%;
+}
